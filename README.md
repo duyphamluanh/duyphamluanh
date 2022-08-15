@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lavarel
 - 📫 How to reach me: ??? Hello, I'm here
 
-![](https://komarev.com/ghpvc/?username=duyphamluanh&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=duyphamluanh&label=PROFILE+VIEWS&color=brightgreen)
 
 <!---
 duyphamluanh/duyphamluanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
