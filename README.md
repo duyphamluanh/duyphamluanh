@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duyphamluanh
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Lavarel & ReactJS
+- 🌱 I’m currently learning Angular and Ionic framework
 - 🌱🌱 I’m currently working with Moodle 
 - 📫 How to reach me: [My Email](mailto:anhduy123000@gmail.com)
 
